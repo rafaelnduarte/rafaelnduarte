@@ -2,7 +2,7 @@
   <img src="https://github.com/rafaelnduarte/Portfolio/raw/master/rafaelnd_banner.png" width=70% >
 </p>
 
-## Data Scientist at Sigmoidal | Machine Learning | Marketing Analytics
+## Data Scientist | Machine Learning | Marketing Analytics
 
 Data Scientist with expertise in marketing analytics, specializing in Machine Learning, data analysis, and statistical modeling. Proficient in Python, SQL, and visualization tools such as Tableau, Looker, etc. 
 
